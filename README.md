@@ -69,6 +69,11 @@ https://user-images.githubusercontent.com/119298912/209350442-dd3a5fb0-bdc8-4f94
 b) Mengakses Sensor DHT 11 (Single Wire / BUS)
 
 
+Buatlah rangkaian seperti pada Gambar di bawah ini.
+
+
+![rangkaian sensor suhu single wire - bus](https://user-images.githubusercontent.com/119298912/209357725-72733c32-7e80-4d23-820b-8e7d92ac0a75.jpg)
+
 
 Buatlah program seperti pada script di bawah ini untuk mengakses sensor 
 DHT11. Kemudian upload program tersebut pada ESP32 dan 
@@ -98,6 +103,10 @@ https://user-images.githubusercontent.com/119298912/209351734-4643d264-e101-4130
 
 
 c) Mengakses Sensor RFID (SPI Communication)
+
+Buatlah rangkaian seperti pada gambar di bawah ini
+
+![rangkaian kartu tempel](https://user-images.githubusercontent.com/119298912/209357462-98eb55b8-ecbe-47f1-ac47-fc545bd231ed.jpg)
 
 
 Dekatkan kartu atau Tag RFID ke RFID Reader. Amati dan analisis cara kerja 
