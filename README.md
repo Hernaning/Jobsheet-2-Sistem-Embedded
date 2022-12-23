@@ -17,15 +17,20 @@ a) ESP32 Capacitive Touch Sensor
 Buatlah rangkaian seperti gambar berikut ini
 
 
-![Sensor touch ](https://user-images.githubusercontent.com/119298912/209346764-a8b89e2a-2ee0-44d5-a4d3-351ec81da484.jpg)
+![Sensor touch ](https://user-images.githubusercontent.com/119298912/209354180-a6b99471-e107-41c5-9ce3-3f6a3f21cebc.jpg)
+
+
 
 
 Buatlah program agar LED menyala ketika sensor disentuh, dan LED akan 
 mati ketika sensor tidak disentuh
 
+
 ![ESP32 Touch Sensor 1](https://user-images.githubusercontent.com/119298912/209348701-e1dcca55-cc39-4d4f-b271-bdfb5126be42.jpg)
 
 
+
+![Sensor touch ](https://user-images.githubusercontent.com/119298912/209346764-a8b89e2a-2ee0-44d5-a4d3-351ec81da484.jpg)
 
 
 Buatlah program agar ketika sensor disentuh, LED menyala Blink
@@ -86,8 +91,6 @@ https://user-images.githubusercontent.com/119298912/209351734-4643d264-e101-4130
 
 
 c) Mengakses Sensor RFID (SPI Communication)
-
-(rangkaian)
 
 
 Dekatkan kartu atau Tag RFID ke RFID Reader. Amati dan analisis cara kerja 
