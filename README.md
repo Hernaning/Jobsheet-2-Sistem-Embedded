@@ -30,7 +30,9 @@ mati ketika sensor tidak disentuh
 
 
 
-![Sensor touch ](https://user-images.githubusercontent.com/119298912/209346764-a8b89e2a-2ee0-44d5-a4d3-351ec81da484.jpg)
+https://user-images.githubusercontent.com/119298912/209354395-966d2a3f-cf75-486e-a42a-22cae61a92a0.mp4
+
+
 
 
 Buatlah program agar ketika sensor disentuh, LED menyala Blink
