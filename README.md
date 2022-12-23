@@ -128,6 +128,8 @@ tertampil pesan “Akses Ditolak”. Gunakan Tag RFID lain untuk mencoba.
 Amati yang terjadi, analisis dan dokumentasikan hasilnya
 
 
+![rangkaian kartu tempel](https://user-images.githubusercontent.com/119298912/209357462-98eb55b8-ecbe-47f1-ac47-fc545bd231ed.jpg)
+
 
 https://user-images.githubusercontent.com/119298912/209353731-39b7ba4a-129b-4218-9ab0-adcb9b79d4bc.mp4
 
