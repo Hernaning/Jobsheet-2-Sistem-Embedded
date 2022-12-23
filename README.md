@@ -80,6 +80,11 @@ dokumentasikan hasilnya
 
 
 
+
+https://user-images.githubusercontent.com/119298912/209355045-a2d47ee3-05ea-4992-a6e7-70d2164d313f.mp4
+
+
+
 Buatlah program agar ketika suhu rungan mencapai 30 derajat celcius, maka 
 ESP32 akan menyalakan LED Merah dan buzzer secara beep (blink). Apabila 
 suhu dibawah 30 derajat, ESP32 akan mematikan buzzer dan menyalakan 
