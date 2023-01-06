@@ -37,7 +37,12 @@ https://user-images.githubusercontent.com/119298912/209354395-966d2a3f-cf75-486e
 
 Buatlah program agar ketika sensor disentuh, LED menyala Blink
 
-(belum)
+
+
+
+https://user-images.githubusercontent.com/119298912/211003258-e18a5000-94f0-47b9-8a7d-6707df8ae2cd.mov
+
+
 
 
 Buatlah program agar ketika LED menyala, maka pada Serial Monitor akan 
